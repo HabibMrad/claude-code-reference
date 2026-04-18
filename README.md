@@ -17,13 +17,6 @@ Or download `index.html` and open it locally — works fully offline.
 
 ---
 
-
-| Skills & Agents | Memory & Files | Fact-Check |
-|----------------|---------------|------------|
-| ![Skills](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/08_skills_agents.png) | ![Memory](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/09_memory_env.png) | ![Corrections](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/10_corrections.png) |
-
----
-
 ## 📚 What's Inside
 
 10 interactive sections covering every Claude Code feature:
