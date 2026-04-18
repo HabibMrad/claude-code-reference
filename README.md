@@ -17,11 +17,6 @@ Or download `index.html` and open it locally — works fully offline.
 
 ---
 
-## 📸 Preview
-
-| Overview | Slash Commands | MCP Servers |
-|----------|---------------|-------------|
-| ![Overview](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/01_hero_overview.png) | ![Commands](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/03_slash_session.png) | ![MCP](https://raw.githubusercontent.com/HabibMrad/claude-code-reference/main/screenshots/07_mcp_servers.png) |
 
 | Skills & Agents | Memory & Files | Fact-Check |
 |----------------|---------------|------------|
